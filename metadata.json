@@ -1,0 +1,6 @@
+{
+  "name": "WebToExe - Windows Native Wrapper & PE Header Studio",
+  "description": "Convert any website or web app URL into a native Windows executable with PE header generator, WebView2 runtime integration, icon builder, and multi-architecture packaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
